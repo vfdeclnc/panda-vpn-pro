@@ -18,6 +18,7 @@
 
 - 🚁 **[2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：[https://xn--7kq24s4ynvb.site/#/register?code=ubUpvpLP](https://knjc.cfd/#/register?code=Lhpm2QMs)**
 - 🚁 [2023.02.03] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 100 GB) --- 自由猫：[https://us.freecat.cloud/register?code=8S3V1vsr](https://us.freecat.cloud/register?code=yA5d4GFo)
+- 🚁 [2023.05.01] --- ( &nbsp;8 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 200 GB) --- 农夫山泉：[https://www.nfsq.us/#/register?code=HvoPMFli](https://www.nfsq.us/#/register?code=GwZy7XwK)
 - 🚁 [2020.07.04] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;128 GB) --- 次元雲：[https://ciyy.cc/#/register?code=dKavGnDc](https://ciyy.cc/index.php#/register?code=l3zBZeNJ)
 - 🚁 [2020.11.13] --- (14.90 ￥ / 永久 / &nbsp;&nbsp;130 GB) --- 魔戒：[https://www.mojie.me/#/register?code=WTsWNdvY](https://www.mojie.me/#/register?code=qt6C1VtA)
 - 🚁 [2022.04.13] --- ( &nbsp;9.88 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 美汁源：[https://meizhiyuan.cc/index.php#/register?code=dO3dDy7G](https://meizhiyuan.cc/index.php#/register?code=T6ESpLgA)
