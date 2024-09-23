@@ -16,7 +16,9 @@
 
 👍 以下机场都是我使用的价格较低的机场，基本都使用了好几个月，总体算稳定。不过，**虽然价格低**，**但也不建议买多**，两三个足矣。买多首先你用不完，其次是，这些便宜的机场由于价格低，也是会有跑路的风险。而我买的多主要是为了测试用。**对于月付 10 ￥ 左右的不建议按年购买**，**按月购买即可**，**防止跑路时损失过大**。而年付 10 ￥ 这个价位的机场算是最便宜的价位了，这个价位是最容易跑路的（但也不是绝对的，关键还是取决于机场主的人品），所以，对于这类极低价的机场，可以买个一年，但是，请不要购买一年以上，甚至 10 年！注意，以下机场**排名仅代表机场创建日期先后**，**不表示体验好坏**，`[]` **内即是机场建立的日期（实际时间可能会更早）**。**除了永久套餐以外**，**`()` 内中的流量指的是每月的流量**，**如 `(10 ￥ / 年 / 100 GB)` 表示的是“套餐总价格 10 元**，**有效期一年**，**每个月有 100 GB 的流量**，**实际总流量为 1200 GB”**。具体购买什么请各位考虑清楚再购买：
 
-- 🚁 **[2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：[https://xn--7kq24s4ynvb.site/#/register](https://knjc.cfd/#/register?code=Lhpm2QMs)**
+- 🚁 **[2023.03.09] --- ( 1.99 ￥/月/ 500 GB；9.9￥/不限时/1234 GB) --- 亏本机场：[https://xn--7kq24s4ynvb.site/#/register](https://knjc.cfd/#/register?code=Lhpm2QMs)**
+- 🚁 **[2022.11.06] --- ( 1.5￥/月/100 GB；18.9￥/不限时/1000 GB；；688￥/一辈子(可滥用)/99999 GB) --- 赔钱机场：[https://xn--mes358aby2apfg.com/#/register](https://xn--mes358aby2apfg.com/#/register?code=B52MtDq3)**
+- 🚁 **[2023.04.05] --- ( 1.9￥/月/500 GB；14.9￥/不限时/1000 GB) --- 高速机场：[https://xn--mes358al14ay7i.site/#/register](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)**
 - 🚁 [2019.03.17] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 100 GB) --- SAC：[https://hk.sacjs.host/index.php#/register](https://hk.sacjs.host/index.php#/register?code=5I5wcVPd)
 - 🚁 [2023.02.03] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 100 GB) --- 自由猫：[https://us.freecat.cloud/register](https://us.freecat.cloud/register?code=yA5d4GFo)
 - 🚁 [2023.05.01] --- ( &nbsp;8 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 200 GB) --- 农夫山泉：[https://www.nfsq.us/#/register](https://www.nfsq.us/#/register?code=GwZy7XwK)
@@ -26,14 +28,12 @@
 - 🚁 [2022.04.16] --- (12.50 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- 泡泡狗：[https://www.paopao.dog/#/register](https://www.paopao.dog/#/register?code=KEXovhwa)
 - 🚁 [2022.05.10] ---  (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：[https://www.spcloud.cc/#/register](https://invite.spcloud.vip/#/register?code=svOkMVCH)
 - 🚁 [2022.10.24] --- ( &nbsp;8.80 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;88 GB) --- 雨燕云〖新用户免费试用 8 小时〗：[https://yuyan.online/#/register](https://yuyan.online/#/register?code=GugQbb77)
-- 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『**所有**套餐使用优惠券 `free50` 可打 **5 折**优惠』：[https://xn--mes358aby2apfg.com/#/register](https://xn--mes358aby2apfg.com/#/register?code=B52MtDq3)
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：[https://www.clcat.net/#/register](https://start.clmgo.me/#/register?code=v6LBmuxp)
 - 🚁 [2022.12.07] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 一分机场：[https://xn--4gqx1hgtfdmt.com/#/register](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)
 - 🚁 [2023.02.08] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- Max 加速〖新用户免费试用 1 天〗：[https://global.maxbyte.net](https://maxjiasu.com/ncyuEBj9)
 - 🚁 [2023.02.15] --- ( &nbsp;8.99 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 慈善机场：[https://xn--30rs3bu7r87f.com/#/register](https://xn--30rs3bu7r87f.com/#/register?code=NcxpTHun)
 - 🚁 [2023.03.21] --- ( &nbsp;4.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;800 GB) --- 稳连云：[https://xn--9kqq77hqun.com/#/register](https://xn--9kqq77hqun.com/#/register?code=xgl31aOi)
 - 🚁 [2023.03.30] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;300 GB) --- COO NETWORK：[https://web.coo.wiki/#/register?](https://web.coo.wiki/#/register?code=Ltxnl1NL)
-- 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场：[https://xn--mes358al14ay7i.site/#/register](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)
 
 
 👀 以上所列举的套餐属于最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 `v2board`。
