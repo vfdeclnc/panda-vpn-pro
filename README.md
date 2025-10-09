@@ -1,5 +1,5 @@
-[https://github.com/vfdeclnc/cheap-vpn-airport](https://github.com/vfdeclnc/cheap-vpn-airport)
-如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**  本仓库。  
+如若你不希望与本仓库失联，请点 **star**⭐  并  **fork**  新仓库地址 [https://github.com/vfdeclnc/cheap-vpn-airport](https://github.com/vfdeclnc/cheap-vpn-airport)  
+
 也可收藏新地址 [(翻墙访问)https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
 ## 优质·低价·性价比·机场推荐。往下有机场列表，可对比清楚
