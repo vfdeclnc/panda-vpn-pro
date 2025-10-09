@@ -1,3 +1,4 @@
+[https://github.com/vfdeclnc/cheap-vpn-airport](https://github.com/vfdeclnc/cheap-vpn-airport)
 如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**  本仓库。  
 也可收藏新地址 [(翻墙访问)https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
