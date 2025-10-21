@@ -1,12 +1,12 @@
 # 便宜机场推荐 - 免费·低价·优质·稳定·超高性价比
 
-如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**  本仓库。  
+如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**🔱  本仓库。  
 ---
 
 #### 本项目网站 [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 
 ### 请知晓：机场都有跑路的风险。也没有任何翻墙工具是绝对安全的。
-
+👍 是否解奈飞VIP等请问机场客服。  
 👍 部分机场网站需翻墙访问，所以还想继续使用，套餐还剩下一点的时候，就可以续费了。  
 👍 以下机场都是我使用的 **价格较低** 的机场，最少使用了 **半年以上，最多的使用好几年，总体算稳定，请根据自身情况购买**。  
 👍 如果 **用量比较大**，购买 **月付套餐**，便宜流量多；如果 **用量不大**，购买 **不限时套餐**，随时想用就用，不用担心过期。  
@@ -20,20 +20,15 @@
 |创建|官网<br>(点击跳转)|协议|限时套餐|推荐<br>不限时套餐|其他|
 |-|-|-|-|-|-|
 |2023.05.01|[**农夫山泉**](https://www.nfsq.us/#/register?code=JjW59PTY)| vless、ss |**8 ￥ / 月 / 200 GB**|**15 ￥ / 不限时 / 200 GB<br>70 ￥ / 不限时 / 1000 GB**|延迟低，兼顾速度与价格，<br>大部分是亚洲节点|
-|2024.11.05|[**牛逼机场**](https://6.66jc.top/#/login?code=UJLSfGIa)| vless、hy2 |**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 不限时 / 200 GB<br>33.90 ￥ / 不限时 / 2000 GB**|适合中度用户|
 |2024.05.31|[**极速云**](https://w4.rouhe88.com/#/register?code=OSjXw5aR)| ss |**15.99 ￥ / 月 / 1200 GB<br>58 ￥ / 季 / 每月1500 G<br>218 ￥ / 年 / 每月1500 G**|**88 ￥ / 不限时 / 1000 GB<br>168 ￥ / 不限时 / 2500 GB<br>288 ￥ / 不限时 / 5000 GB**|节点倍率8倍，高速4K无压力|
 |2023.03.09|[**亏本机场**](https://xn--7kq24s4ynvb.site/#/register?code=Lhpm2QMs)| hy2、vless |**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 不限时 / 1234 GB**|延迟较低，极致性价比|
 |2025.03.18|[**良心云**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |**6 ￥ / 月 / 1000 GB**|**149 ￥ / 不限时 / 10000 GB**|适合重度用户，解锁流媒体|
 |2022.12.07|[**一分机场**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 不限时 / 1000 GB**|延迟低，节点多|
 |2022.11.06|[**赔钱机场**](https://xn--mes358aby2apfg.com/#/register?code=yayApaSY)| vless、hy2 |**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 不限时 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|延迟较低，节点很多|
+|2024.11.05|[**牛逼机场**](https://6.66jc.top/#/login?code=UJLSfGIa)| vmess、hy2、ss |**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 不限时 / 200 GB<br>33.90 ￥ / 不限时 / 2000 GB**|适合中度用户|
 |2023.04.05|[**高速机场**](https://xn--mes358al14ay7i.site/#/register?code=A42GZudh)| vless |**1.9 ￥ / 月 / 500 GB**|**14.9 ￥ / 不限时 / 1000 GB**|大部分美国节点，<br>需要美国节点可选|
-
-### 价格稍高机场，请根据自身情况购买
-
-|创建|官网<br>(点击跳转)|协议|限时套餐|推荐<br>不限时套餐|其他|
-|-|-|-|-|-|-|
 |2023.05.04|[**自由猫**](https://us.freecat.cc/register?code=yA5d4GFo)| Trojan |**9 ￥ / 月 / 100 GB**|**50 ￥ / 不限时 / 500 GB**||
-|2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |**20 ￥ / 月 / 200 GB**|**22 ￥ / 不限时 / 100 GB**|延迟低，<br>**限时套餐解锁奈飞，问客服**|
+|2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |**20 ￥ / 月 / 200 GB**|**22 ￥ / 不限时 / 100 GB**|延迟极低，<br>**限时套餐解锁奈飞VIP，先问客服**|
 |2022.04.26|[**魔戒**](https://mojie.xn--yrs494l.com/register?aff=qt6C1VtA)| - |无|**14.9 ￥ / 不限时 / 130 GB<br>688 ￥ / 不限时 / 10000 GB**|解锁流媒体|
 
 ### 免费节点
@@ -42,7 +37,7 @@
 
 ---
 ### 友情推荐：  
-[影视资源站扩展·免费·加速·去广告](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
+[影视资源站扩展·免费·加速·去广告](https://chromewebstore.google.com/search/KK%20Player?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
 
 ---
 
